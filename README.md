@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Ajay Mehra</h1>
 
-🌱 I’m currently learning: 
+🌱 I’m currently learning:<br/>
 **DSA**
 
-👯 I’m looking to collaborate on:
+👯 I’m looking to collaborate on:<br/>
 **Full Stack projects.**
 
- 💬 Ask me about:
+ 💬 Ask me about:<br/>
  **react,mongodb,nodejs**
 
 <h3 align="left">Connect with me:</h3>
