@@ -1,11 +1,13 @@
 <h1 align="left">Hi 👋, I'm Ajay Mehra</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **DSA**
+🌱 I’m currently learning: 
+**DSA**
 
-- 👯 I’m looking to collaborate on **Full Stack projects.**
+👯 I’m looking to collaborate on:
+**Full Stack projects.**
 
-- 💬 Ask me about **react,mongodb,nodejs**
+ 💬 Ask me about:
+ **react,mongodb,nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
