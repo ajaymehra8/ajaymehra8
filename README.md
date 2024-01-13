@@ -1,4 +1,4 @@
-Hi 👋 My name is Ajay
+💫 About Me:
 =====================
 
 Full Stack Developer
