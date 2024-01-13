@@ -3,7 +3,7 @@
 
 
 
-🧠  I'm learning DSA.
+🧠  I'm learning DSA.<br/>
 🤝  I'm open to collaborating on MERN projects.
 
 ### Skills
