@@ -1,11 +1,10 @@
 💫 About Me:
 =====================
 
-Full Stack Developer
---------------------
 
-* 🧠  I'm learning DSA.
-* 🤝  I'm open to collaborating on MERN projects.
+
+🧠  I'm learning DSA.
+🤝  I'm open to collaborating on MERN projects.
 
 ### Skills
 
