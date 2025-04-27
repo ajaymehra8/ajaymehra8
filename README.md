@@ -1,5 +1,5 @@
 # 💫 About Me:
-=====================
+
 🧠 I am currently learning Data Structures & Algorithms (DSA).  
 🤝 Open to collaborating on MERN stack projects and software development challenges.  
 
