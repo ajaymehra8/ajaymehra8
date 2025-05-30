@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Mahara</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <hr/>
-- 🌱 I’m currently learning **DSA and System design.**
+- 🌱 I’m currently learning DSA and System design.
 
 - 👯 I’m looking to collaborate on **Full stack and mobile development projects.**
 
