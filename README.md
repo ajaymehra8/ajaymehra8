@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-🧠 I am currently learning Data Structures & Algorithms (DSA).  
-🤝 Open to collaborating on MERN stack projects and software development challenges.  
+🧠 I am currently learning Data Structures & Algorithms (DSA) and System design.  
+🤝 Open to collaborating on Full stack projects and software development challenges.  
 
 🌐 **Social Links:**
 =====================
-[GitHub](https://www.github.com/ajaymehra8) | [LinkedIn](https://www.linkedin.com/in/ajay-mehra-9b8842259)
+[LinkedIn](https://www.linkedin.com/in/ajay-mehra-9b8842259)
 
 💻 **Tech Stack:**
 =====================
