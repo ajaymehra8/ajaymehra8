@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning DSA and System design.
 
-- 👯 I’m looking to collaborate on **Full stack and mobile development projects.**
+- 👯 I’m looking to collaborate on **Full stack websites and mobile apps.**
 
 - 💬 Ask me about **next.js, express, typescript**
 
